@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Image of the Day",
+      "live": "https://pages.git.generalassemb.ly/mmergal92/Image_API_Project/",
+      "git": "https://git.generalassemb.ly/mmergal92/Image_API_Project",
+      "image": "https://images.metmuseum.org/CRDImages/rl/original/DT3154.jpg"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Branding Kit",
+      "live": "https://git-project-brand-kit.herokuapp.com/",
+      "git": "https://github.com/mmergal92/project2m",
+      "image": "https://cdn.shopify.com/s/files/1/1347/8735/products/image_81783c62-bab1-4551-8f31-cb355c22af28_1400x.jpg?v=1602177960"
     }
   ]
